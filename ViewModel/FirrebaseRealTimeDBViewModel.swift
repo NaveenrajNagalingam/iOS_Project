@@ -117,6 +117,7 @@ class FirrebaseRealTimeDBViewModel: ObservableObject{
     
     //update the restaurant
     func updateRestaurant(){
+        print("update func called")
         ref.child("Restaurant/\(self.update_res_id)").updateChildValues(["res_name": self.update_res_name , "res_location": self.update_res_location])
     }
     
