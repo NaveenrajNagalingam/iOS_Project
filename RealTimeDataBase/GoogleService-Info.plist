@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>256103211022-vqvsbjcqur75erg6r86s5jhsf0qod0ca.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.256103211022-vqvsbjcqur75erg6r86s5jhsf0qod0ca</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC69e7xPR-_xEoXHj6z1ArDhPYxgIe4ARM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>256103211022</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.avasoft.RealTimeDataBase</string>
+	<key>PROJECT_ID</key>
+	<string>realtimedb-2f67d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realtimedb-2f67d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:256103211022:ios:0311d07663fdf0fabc1c5f</string>
+	<key>DATABASE_URL</key>
+	<string>https://realtimedb-2f67d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
