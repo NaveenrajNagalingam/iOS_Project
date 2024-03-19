@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FormatVersion</key>
+	<integer>1</integer>
+	<key>Store</key>
+	<dict>
+		<key>CalculatorTests</key>
+		<dict>
+			<key>CalculatorTests</key>
+			<dict>
+				<key>testAdd</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.0028250217437744141</real>
+				</dict>
+				<key>testDivide</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00031793117523193359</real>
+				</dict>
+				<key>testFactorial</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00031697750091552734</real>
+				</dict>
+				<key>testIsEven</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00028204917907714844</real>
+				</dict>
+				<key>testIsOdd</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00027394294738769531</real>
+				</dict>
+				<key>testIsPrime</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00055396556854248047</real>
+				</dict>
+				<key>testMultiply</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00030291080474853516</real>
+				</dict>
+				<key>testPower</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00028300285339355469</real>
+				</dict>
+				<key>testSubtract</key>
+				<dict>
+					<key>mrnet</key>
+					<real>0.00027799606323242188</real>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

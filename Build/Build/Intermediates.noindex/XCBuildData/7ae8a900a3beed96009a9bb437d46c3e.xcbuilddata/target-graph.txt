@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'CalculatorTests' in project 'Calculator'
+➜ Explicit dependency on target 'Calculator' in project 'Calculator'
+Target 'Calculator' in project 'Calculator' (no dependencies)
